@@ -5,7 +5,7 @@ export const Questions = [
         optionB: "21",
         optionC: "4",
         optionD: "2",
-        answer: "optionC",
+        answer: "C",
     },
     {
         prompt: "What is 1+3?",
@@ -13,7 +13,7 @@ export const Questions = [
         optionB: "21",
         optionC: "4",
         optionD: "2",
-        answer: "optionC",
+        answer: "C",
     },
     {
         prompt: "What is 1+3?",
@@ -21,6 +21,6 @@ export const Questions = [
         optionB: "21",
         optionC: "4",
         optionD: "2",
-        answer: "optionC",
+        answer: "C",
     },
 ]
